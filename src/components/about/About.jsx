@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import Me from "../../assets/sari1.jpg";
+import Me from "../../assets/me.jpg";
 import { CgAwards } from "react-icons/cg";
 import { VscFolder } from "react-icons/vsc";
 

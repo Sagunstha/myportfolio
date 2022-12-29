@@ -52,6 +52,7 @@ header {
   font-weight: 300;
   font-size: 0.9rem;
 }
+
 @media screen and (max-width: 1024px) {
   .header {
     height: 28vh;
