@@ -18,6 +18,34 @@ const data = [
     github: "https://github.com/Sagunstha",
     demo: "https://sagunstha.github.io/netflixclone_host/",
   },
+  {
+    id: 3,
+    image: IMG2,
+    title: "NetflixClone",
+    github: "https://github.com/Sagunstha",
+    demo: "https://sagunstha.github.io/netflixclone_host/",
+  },
+  {
+    id: 4,
+    image: IMG2,
+    title: "NetflixClone",
+    github: "https://github.com/Sagunstha",
+    demo: "https://sagunstha.github.io/netflixclone_host/",
+  },
+  {
+    id: 5,
+    image: IMG2,
+    title: "NetflixClone",
+    github: "https://github.com/Sagunstha",
+    demo: "https://sagunstha.github.io/netflixclone_host/",
+  },
+  {
+    id: 6,
+    image: IMG2,
+    title: "NetflixClone",
+    github: "https://github.com/Sagunstha",
+    demo: "https://sagunstha.github.io/netflixclone_host/",
+  },
 ];
 
 const Portfolio = () => {
